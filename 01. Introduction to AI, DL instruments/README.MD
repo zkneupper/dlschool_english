@@ -1,10 +1,11 @@
 # Lesson Materials
-## Introductory Lection 
+## Introductory Lecture 
 
-[**Record**](https://www.youtube.com/watch?v=1VUk_Mwt2_c) is available at YouTube.
+[**Recording**](https://www.youtube.com/watch?v=1VUk_Mwt2_c) is available at YouTube.
 
 ## Tools
 Python notebook [**[seminar]tools.ipynb**](./[seminar]tools.ipynb) and [video](https://www.youtube.com/watch?v=xeqz0IQyE5Q).
+
 Python notebook [**[seminar]bash.ipynb**](./[seminar]bash.ipynb) and [video](https://www.youtube.com/watch?v=dl1GBXDyRf8).
 
 ## Python basics
