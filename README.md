@@ -2,7 +2,7 @@
 
 # dlschool_english
 
-The official repo for english Deep Learing course by Deep Learning School (PSAMI MIPT, Russia).
+The official repo for English Deep Learning course by Deep Learning School (PSAMI MIPT, Russia).
 
 Syllabus:
 
@@ -14,5 +14,5 @@ Syllabus:
 6. Multilayer Neural Networks
 7. Neural Networks practice: datasets, dropout and useful techniques
 8. Convolutional Neural Networks basics
-9. Transfer Learning for CNN in Imagr Classification task
+9. Transfer Learning for CNN in Image Classification task
 10. Applications of AI in Computer Vision: object detection, segmentation and style transfer
